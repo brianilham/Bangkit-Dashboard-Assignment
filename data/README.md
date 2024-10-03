@@ -10,17 +10,8 @@ conda activate main-ds
 pip install -r requirements.txt
 ```
 
-## Usage
+## run streamlib
 
-```python
-import foobar
-
-# returns 'words'
-foobar.pluralize('word')
-
-# returns 'geese'
-foobar.pluralize('goose')
-
-# returns 'phenomenon'
-foobar.singularize('phenomena')
+```bash
+streamlib run dashboard.py
 ```
