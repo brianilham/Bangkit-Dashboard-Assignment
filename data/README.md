@@ -6,7 +6,9 @@ Foobar is a Python library for dealing with word pluralization.
 
 
 ```bash
-pip install foobar
+conda create --name main-ds python=3.9
+conda activate main-ds
+pip install -r requirements.txt
 ```
 
 ## Usage
