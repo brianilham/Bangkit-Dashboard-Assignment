@@ -13,7 +13,7 @@ pip install -r requirements.txt
 ## run streamlib
 
 ```bash
-before run the streamlit, we have to move to the dashboard file. Because that's where the the dashboard.py file is located.
+before run the streamlit, we have to move to the dashboard file. Because that is where the the dashboard.py file is located.
 ```
 
 ```bash
