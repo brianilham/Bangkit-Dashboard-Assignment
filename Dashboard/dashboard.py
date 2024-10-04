@@ -2,10 +2,6 @@ import streamlit as st
 import pandas as pd
 import seaborn as sns
 import matplotlib.pyplot as plt
-import os
-
-root_folder = dashboard.py
-print(root_folder)
 
 df = pd.read_csv("new_order_data.csv")
 df['dteday'] = pd.to_datetime(df['dteday'])
